@@ -1,12 +1,17 @@
-# Rules
+---
+title: Rules
+head:
+  - - meta
+    - http-equiv: refresh
+      content: '0; url=/AddNewMenuBuilderDoc/guide/rules'
+  - - link
+    - rel: canonical
+      href: https://sharedorbit.github.io/AddNewMenuBuilderDoc/guide/rules
+  - - meta
+    - name: robots
+      content: noindex
+---
 
-## What can change
+# Rules has moved
 
-| Item | Reorder | Edit its details here |
-| --- | --- | --- |
-| Unreal shortcut | Yes | No |
-| Custom shortcut | Yes | Yes |
-| Unreal category heading | Yes | No |
-| Custom category heading | Yes | Yes |
-| Entry in a custom category | Yes, within that category | Yes |
-| Entry inside an Unreal category | No | No |
+Continue to [Rules](/guide/rules).

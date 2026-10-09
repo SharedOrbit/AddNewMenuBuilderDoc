@@ -23,7 +23,7 @@ export default defineConfig({
 
     nav: [
       { text: 'Quick Start', link: '/guide/quick-start' },
-      { text: 'Rules', link: '/guide/ordering' },
+      { text: 'Rules', link: '/guide/rules' },
       { text: 'Troubleshooting', link: '/reference/troubleshooting' },
       { text: 'Contact', link: '/contact' }
     ],
@@ -33,7 +33,7 @@ export default defineConfig({
         text: 'Getting Started',
         items: [
           { text: 'Quick Start', link: '/guide/quick-start' },
-          { text: 'Rules', link: '/guide/ordering' },
+          { text: 'Rules', link: '/guide/rules' },
           { text: 'Troubleshooting', link: '/reference/troubleshooting' },
           { text: 'Contact', link: '/contact' }
         ]

@@ -50,4 +50,4 @@ Return to the Content Browser and reopen **Add New**. The shortcut appears in th
   <img src="/images/quick-start/quick-start-menu-result-cropped.png" alt="Content Browser Add New menu showing My Actor as a shortcut and Important as a category with custom entries" width="384" height="450" loading="lazy" decoding="async">
 </figure>
 
-Changes are saved as you edit; there is no separate Save button. Drag rows in **Shortcuts**, **Categories**, or a custom category's **Entries** list to change their order. Unreal category contents cannot be edited here. See [Rules](/guide/ordering) for the full list.
+Changes are saved as you edit; there is no separate Save button. Drag rows in **Shortcuts**, **Categories**, or a custom category's **Entries** list to change their order. Unreal category contents cannot be edited here. See [Rules](/guide/rules) for the full list.

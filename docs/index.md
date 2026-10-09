@@ -15,7 +15,7 @@ features:
     link: /guide/quick-start
   - title: Rules
     details: Arrange shortcut and category rows beside Unreal's own items.
-    link: /guide/ordering
+    link: /guide/rules
   - title: Troubleshooting
     details: Check common setup, class selection, and ordering problems.
     link: /reference/troubleshooting
