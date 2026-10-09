@@ -21,4 +21,4 @@ Unreal rows can be repositioned in the combined shortcut list. Their built-in as
 
 Drag a row to the desired position, or use the row's move actions. Click the refresh icon beside **Shortcuts** to reset the saved shortcut order. New custom shortcuts start at the top of the list.
 
-For engine-specific ordering behavior, see [Ordering](/guide/ordering).
+For engine-specific ordering behavior, see [Rules](/guide/ordering).

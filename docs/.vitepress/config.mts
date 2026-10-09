@@ -23,9 +23,7 @@ export default defineConfig({
 
     nav: [
       { text: 'Quick Start', link: '/guide/quick-start' },
-      { text: 'Shortcuts', link: '/guide/shortcuts' },
-      { text: 'Categories', link: '/guide/categories' },
-      { text: 'Ordering', link: '/guide/ordering' },
+      { text: 'Rules', link: '/guide/ordering' },
       { text: 'Troubleshooting', link: '/reference/troubleshooting' },
       { text: 'Contact', link: '/contact' }
     ],
@@ -34,19 +32,10 @@ export default defineConfig({
       {
         text: 'Getting Started',
         items: [
-          { text: 'Installation', link: '/guide/installation' },
           { text: 'Quick Start', link: '/guide/quick-start' },
+          { text: 'Rules', link: '/guide/ordering' },
           { text: 'Troubleshooting', link: '/reference/troubleshooting' },
           { text: 'Contact', link: '/contact' }
-        ]
-      },
-      {
-        text: 'Guides',
-        items: [
-          { text: 'Shortcuts', link: '/guide/shortcuts' },
-          { text: 'Categories', link: '/guide/categories' },
-          { text: 'Category Entries', link: '/guide/entries' },
-          { text: 'Ordering', link: '/guide/ordering' }
         ]
       },
       {

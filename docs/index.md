@@ -13,13 +13,7 @@ features:
   - title: Quick Start
     details: Add your first asset shortcut and category in a few steps.
     link: /guide/quick-start
-  - title: Shortcuts
-    details: Put the asset types you use most directly in the Add New menu.
-    link: /guide/shortcuts
-  - title: Categories
-    details: Group custom asset entries under your own menu headings.
-    link: /guide/categories
-  - title: Ordering
+  - title: Rules
     details: Arrange shortcut and category rows beside Unreal's own items.
     link: /guide/ordering
   - title: Asset Classes & Icons

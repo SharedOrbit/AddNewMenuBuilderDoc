@@ -1,4 +1,4 @@
-# Ordering
+# Rules
 
 The **Shortcuts** and **Categories** pages each have a single ordered list containing Unreal rows and your own rows. The **Entries** list controls the order inside one custom category.
 
