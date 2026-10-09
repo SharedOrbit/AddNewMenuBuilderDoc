@@ -18,18 +18,4 @@ Unreal shortcut and category rows are shown so you can arrange them alongside cu
 
 The plugin only edits entries that you add inside a custom category. An Unreal category heading can be moved; the native entries inside it cannot.
 
-## The editor list and the Add New menu have different mixed orders
-
-Check your Unreal Engine version. Before 5.7, the plugin uses a legacy ToolMenus insertion path that places configured entries ahead of native entries. See [Compatibility](/reference/compatibility).
-
-On 5.7 or later, reopen **Add New** after changing order and check the result. The refresh icon beside Shortcuts or Categories clears that list's custom order if you want to start over.
-
-## My icon does not appear
-
-Choose a valid Texture2D asset in the **Icon** field. The icon asset must be available to the Editor. If you do not need a custom icon, clear the field to use the available class or factory icon.
-
-## A teammate sees a different menu
-
-The settings are saved in the project's Editor configuration. Make sure the relevant project configuration is shared through your team's version control, and reopen the Editor after pulling changes if needed.
-
 Still stuck? See [Contact](/contact) and include your engine version and a screenshot of both the editor tab and the Add New menu.
