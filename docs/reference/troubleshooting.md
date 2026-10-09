@@ -20,7 +20,7 @@ The plugin only edits entries that you add inside a custom category. An Unreal c
 
 ## The editor list and the Add New menu have different mixed orders
 
-Check your Unreal Engine version. Before 5.7, the plugin uses a legacy ToolMenus insertion path that places configured entries ahead of native entries. See [Rules](/guide/ordering#engine-version-behavior).
+Check your Unreal Engine version. Before 5.7, the plugin uses a legacy ToolMenus insertion path that places configured entries ahead of native entries. See [Rules](/guide/ordering).
 
 On 5.7 or later, reopen **Add New** after changing order and check the result. The refresh icon beside Shortcuts or Categories clears that list's custom order if you want to start over.
 
