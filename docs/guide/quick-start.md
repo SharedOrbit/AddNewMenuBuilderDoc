@@ -2,6 +2,18 @@
 
 Create a shortcut that appears directly in Unreal's **Add New** menu, then a custom category with its own asset entries. The screenshots below use **My Actor** as the shortcut and **Important** as the category.
 
+## Quick Start Tutorial
+
+<div class="video-frame">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/vaOH8m1dfSM"
+    title="Add New Menu Builder quick start tutorial video"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
 ## 1. Open the builder
 
 In the Content Browser, open a folder where you can create assets. Click **Add New → Add New Menu Builder**. The editor tab has **Shortcuts** and **Categories** at the top right.
