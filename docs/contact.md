@@ -1,17 +1,39 @@
 # Contact
 
-For support or documentation feedback, contact Shared Orbit:
+For support, feedback, and questions about Shared Orbit plugins, use the Discord server first:
+
+[Join the Shared Orbit Discord](https://discord.gg/Wnrcu5cvEH)
+
+Discord is the recommended place for:
+
+- Product support
+- Setup questions
+- Feedback
+- Bug reports
+- General discussion about Shared Orbit plugins
+
+For business collaboration or support topics that cannot be handled through Discord, you can also use email. Email is not the recommended support path and may be slower:
 
 ```text
 contact.sharedorbit@gmail.com
 ```
 
-When reporting a plugin issue, include:
+## Response Times
 
-- Unreal Engine version
-- Plugin version
-- Whether the issue occurs in the editor tab or Content Browser menu
-- The Asset Class you selected, if asset creation is affected
-- A screenshot or short recording when possible
+Please keep in mind that our support system is entirely community and volunteer-driven.
 
-You can also review the [Add New Menu Builder source repository](https://github.com/SharedOrbit/AddNewMenuBuilder).
+Response times may vary anywhere between 0-14 days, depending on availability. Even if you're using our products for free, we genuinely want to help everyone we can.
+
+We simply ask that you remain patient and respectful while waiting for a response.
+
+## Professional License Benefits
+
+If you own a Professional license for any eligible Shared Orbit product and can verify it, you'll receive the VIP role.
+
+VIP members receive:
+
+- Priority support
+- Faster response times
+- Voice support when available
+
+When reporting an issue, include the Unreal Engine version, plugin version, target platform, and whether the issue happens in editor, packaged build, or multiplayer.
