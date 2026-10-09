@@ -1002,3 +1002,22 @@ body:has(._MeshPaintingDoc_roadmap) {
     grid-template-columns: 1fr;
   }
 }
+
+.vp-doc .qs-shot {
+  margin: 18px 0 30px;
+  padding: 8px;
+  border: 1px solid var(--ue-border-strong);
+  border-radius: 6px;
+  background: var(--ue-bg-deep);
+}
+
+.vp-doc .qs-shot img {
+  display: block;
+  width: 100%;
+  max-width: none;
+  height: auto;
+  margin: 0;
+  border-radius: 3px;
+}
+
+.vp-doc .qs-shot--menu { max-width: 384px; }
