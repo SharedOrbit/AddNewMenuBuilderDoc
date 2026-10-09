@@ -23,3 +23,21 @@ features:
     details: Get help and share feedback through the Shared Orbit Discord.
     link: /contact
 ---
+
+<section id="tutorial" class="home-video-section">
+  <div class="home-video-copy">
+    <p class="home-video-eyebrow">Video tutorial</p>
+    <h2>See Add New Menu Builder in action</h2>
+    <p>Watch the tutorial for a guided look at using the plugin in Unreal Editor.</p>
+  </div>
+
+  <div class="video-frame video-frame-home">
+    <iframe
+      src="https://www.youtube-nocookie.com/embed/vaOH8m1dfSM"
+      title="Add New Menu Builder Tutorial - Unreal Engine 5"
+      loading="lazy"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe>
+  </div>
+</section>
