@@ -19,4 +19,7 @@ features:
   - title: Troubleshooting
     details: Check common setup, class selection, and ordering problems.
     link: /reference/troubleshooting
+  - title: Contact
+    details: Get help and share feedback through the Shared Orbit Discord.
+    link: /contact
 ---
