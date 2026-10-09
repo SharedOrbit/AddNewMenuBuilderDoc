@@ -37,12 +37,6 @@ export default defineConfig({
           { text: 'Troubleshooting', link: '/reference/troubleshooting' },
           { text: 'Contact', link: '/contact' }
         ]
-      },
-      {
-        text: 'Reference',
-        items: [
-          { text: 'Asset Classes & Icons', link: '/reference/asset-classes' }
-        ]
       }
     ],
 

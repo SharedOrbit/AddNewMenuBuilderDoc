@@ -16,9 +16,6 @@ features:
   - title: Rules
     details: Arrange shortcut and category rows beside Unreal's own items.
     link: /guide/ordering
-  - title: Asset Classes & Icons
-    details: Choose creatable asset classes and optional Texture2D icons.
-    link: /reference/asset-classes
   - title: Troubleshooting
     details: Check common setup, class selection, and ordering problems.
     link: /reference/troubleshooting
