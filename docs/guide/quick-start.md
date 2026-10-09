@@ -28,7 +28,7 @@ The new category appears in the Content Browser's **Add New** menu. Its entries 
 
 Drag shortcut or category rows to change their position. The lists contain both Unreal and custom rows, labeled **Unreal** and **Custom**. Use the refresh icon beside either list to reset that list's order.
 
-You can arrange an Unreal category heading, but the assets inside that built-in category remain controlled by Unreal. See [Rules](/guide/ordering) for the rules and version differences.
+You can arrange an Unreal category heading, but the assets inside that built-in category remain controlled by Unreal. See [Rules](/guide/ordering) for what can and cannot be changed.
 
 ## 4. Check the result
 
