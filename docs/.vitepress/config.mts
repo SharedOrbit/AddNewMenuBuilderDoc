@@ -32,21 +32,12 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Product',
-        items: [
-          { text: 'Overview', link: '/' },
-          { text: 'Compatibility', link: '/reference/compatibility' },
-          { text: 'Version Updates', link: '/reference/changelog' },
-          { text: 'About', link: '/about' },
-          { text: 'Troubleshooting', link: '/reference/troubleshooting' },
-          { text: 'Contact', link: '/contact' }
-        ]
-      },
-      {
         text: 'Getting Started',
         items: [
           { text: 'Installation', link: '/guide/installation' },
-          { text: 'Quick Start', link: '/guide/quick-start' }
+          { text: 'Quick Start', link: '/guide/quick-start' },
+          { text: 'Troubleshooting', link: '/reference/troubleshooting' },
+          { text: 'Contact', link: '/contact' }
         ]
       },
       {
