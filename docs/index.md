@@ -4,7 +4,7 @@ layout: home
 hero:
   name: Add New Menu Builder
   text: For Unreal Editor
-  tagline: Add asset shortcuts and custom categories, organize them alongside Unreal entries, and create assets directly from the Content Browser.
+  tagline: Customize Unreal's Content Browser Add New menu with asset shortcuts, custom categories, and drag-and-drop ordering.
   image:
     src: /icon.png
     alt: Add New Menu Builder icon
